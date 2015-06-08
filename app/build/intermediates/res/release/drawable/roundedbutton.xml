@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:duration="10" android:visible="true">
+        <shape android:shape="oval">
+            <stroke android:color="#707070" android:width="3dp" />
+            <!-- <solid android:color="@color/rndBtn1"/> -->
+            <size android:width="120dp" android:height="120dp"/>
+
+            <gradient android:type="radial"
+                android:gradientRadius="40%"
+                android:startColor="@color/card_white"
+                android:endColor="@color/rndBtn1"
+                android:centerColor="@color/card_white"/>
+        </shape>
+    </item>
+
+    <item android:duration="10">
+        <shape android:shape="oval">
+            <stroke android:color="#707070" android:width="3dp" />
+            <!-- <solid android:color="@color/rndBtn2"/>  -->
+            <size android:width="120dp" android:height="120dp"/>
+
+            <gradient android:type="radial"
+                android:gradientRadius="40%"
+                android:startColor="@color/rndBtn1"
+                android:endColor="@color/card_white"
+                android:centerColor="@color/rndBtn3"/>
+        </shape>
+    </item>
+
+    <item android:duration="40" android:visible="true">
+        <shape android:shape="oval">
+            <stroke android:color="#707070" android:width="3dp" />
+            <!-- <solid android:color="@color/rndBtn1"/> -->
+            <size android:width="120dp" android:height="120dp"/>
+
+            <gradient android:type="radial"
+                android:gradientRadius="40%"
+                android:startColor="@color/card_white"
+                android:endColor="@color/rndBtn1"
+                android:centerColor="@color/card_white"/>
+        </shape>
+    </item>
+
+    <item android:duration="40">
+        <shape android:shape="oval">
+            <stroke android:color="#707070" android:width="3dp" />
+            <!-- <solid android:color="@color/rndBtn2"/>  -->
+            <size android:width="120dp" android:height="120dp"/>
+
+            <gradient android:type="radial"
+                android:gradientRadius="40%"
+                android:startColor="@color/rndBtn1"
+                android:endColor="@color/card_white"
+                android:centerColor="@color/rndBtn3"/>
+        </shape>
+    </item>
+
+    <item android:duration="40" android:visible="true">
+        <shape android:shape="oval">
+            <stroke android:color="#707070" android:width="3dp" />
+            <!-- <solid android:color="@color/rndBtn1"/> -->
+            <size android:width="120dp" android:height="120dp"/>
+
+            <gradient android:type="radial"
+                android:gradientRadius="40%"
+                android:startColor="@color/card_white"
+                android:endColor="@color/rndBtn1"
+                android:centerColor="@color/card_white"/>
+        </shape>
+    </item>
+
+    <item android:duration="40">
+        <shape android:shape="oval">
+            <stroke android:color="#707070" android:width="3dp" />
+            <!-- <solid android:color="@color/rndBtn2"/>  -->
+            <size android:width="120dp" android:height="120dp"/>
+
+            <gradient android:type="radial"
+                android:gradientRadius="40%"
+                android:startColor="@color/rndBtn1"
+                android:endColor="@color/card_white"
+                android:centerColor="@color/rndBtn3"/>
+        </shape>
+    </item>
+</animation-list>
+
+<!-- From: file:/C:/Users/JRB.CLANCY/AndroidStudioProjects/ClearToken2/app/src/main/res/drawable/roundedbutton.xml -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JRB.CLANCY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\JRB.CLANCY\AndroidStudioProjects\ClearToken2\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-75e8244e83740848d6e7a534965aacf30b7c4b75.jar" />
+    </item>
+    <item
+        jar="C:\Users\JRB.CLANCY\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\JRB.CLANCY\AndroidStudioProjects\ClearToken2\app\build\intermediates\pre-dexed\release\picasso-2.5.2-3714923829366e72aca20f855a7e5317f537e920.jar" />
+    </item>
+
+</items>
